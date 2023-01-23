@@ -1,5 +1,5 @@
-import { DateTime } from './luxon.js';
-import Book from './Library.js';
+import { DateTime } from './module/luxon.js';
+import Book from './module/Library.js';
 
 let Books = JSON.parse(localStorage.getItem('Data')) || [];
 const title = document.getElementById('title');
