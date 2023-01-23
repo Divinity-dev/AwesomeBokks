@@ -33,7 +33,4 @@ export default class Book {
     });
     localStorage.setItem('Data', JSON.stringify(this.Books));
   }
-};
- 
-
-
+}

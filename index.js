@@ -1,10 +1,10 @@
-
 import { DateTime } from './luxon.js';
 import Book from './Library.js';
+
 let Books = JSON.parse(localStorage.getItem('Data')) || [];
 const title = document.getElementById('title');
 const author = document.getElementById('author');
-const bookobj = new Book(author.value, title.value,Books);
+const bookobj = new Book(author.value, title.value, Books);
 
 bookobj.renderbooks();
 
