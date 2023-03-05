@@ -114,7 +114,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link]( https://divinity-dev.github.io/AwesomeBokks/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -259,19 +259,7 @@ I would like to thank Mr Jonas Wulah who was very helpful in develping this proj
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
